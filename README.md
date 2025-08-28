@@ -10,6 +10,10 @@ Specifically,
 
 - Force allow Manual Network Selection on any SIM (some carriers such as AT&T blocks this feature otherwise)
 
+- Bypass Satellite Restrictions (Experimental)
+
+- Force connect to specific mobile networks (USA only)
+
 ## Demo
 
 ### Video
@@ -18,7 +22,9 @@ Specifically,
 
 ### Images
 
-<img src="phone.png" width="300" />
+<img src="phone.jpg" width="300" />
+
+<img src="phone2.jpg" width="300" />
 
 
 ## Prerequisites
